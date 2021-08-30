@@ -1,0 +1,18 @@
+1. Distance: 10930.774km | Path: Detroit - Seattle - Washington DC - New York City - Detroit
+2. Distance: 10978.242km | Path: Detroit - Washington DC - New York City - Seattle - Detroit
+3. Distance: 10978.242km | Path: Detroit - Seattle - New York City - Washington DC - Detroit
+
+2021.01.16 20:30:09
+
+1. Distance: 211.036km | Path: St. Gallen - Rapperswil - Zürich - Winterthur - Frauenfeld - Kreuzlingen - St. Gallen
+2. Distance: 211.036km | Path: St. Gallen - Kreuzlingen - Frauenfeld - Winterthur - Zürich - Rapperswil - St. Gallen
+3. Distance: 229.216km | Path: St. Gallen - Frauenfeld - Winterthur - Zürich - Rapperswil - Kreuzlingen - St. Gallen
+
+2021.01.16 21:44:28
+
+1. Distance: 211.036km | Path: Frauenfeld - Kreuzlingen - St. Gallen - Rapperswil - Zürich - Winterthur - Frauenfeld
+2. Distance: 211.036km | Path: Frauenfeld - Winterthur - Zürich - Rapperswil - St. Gallen - Kreuzlingen - Frauenfeld
+3. Distance: 229.216km | Path: Frauenfeld - Winterthur - Zürich - Rapperswil - Kreuzlingen - St. Gallen - Frauenfeld
+
+2021.08.30 21:47:35
+

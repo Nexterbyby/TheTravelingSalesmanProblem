@@ -1,0 +1,16 @@
+# <- these are comments and they are being ignored
+# ID, NAME, LONGITUDE, LATITUDE
+#
+# SCHWEIZ
+1;Winterthur;8.726488;47.499632
+2;Zürich;8.540877;47.375947
+3;Rapperswil;8.817188;47.225861
+4;St. Gallen;9.377329;47.425063
+5;Kreuzlingen;9.170734;47.645047
+6;Frauenfeld;8.897415;47.555880
+#
+# AMERIKA
+#7;Detroit;-83.046833;42.341346
+#8;New York City;-74.007260;40.711682
+#9;Washington DC;-77.036529;38.907421
+#10;Seattle;-122.334077;47.608046
