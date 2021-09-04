@@ -23,7 +23,7 @@ Beispiel: <br>
  3. Distance: 229.216km | Path: St. Gallen - Frauenfeld - Winterthur - Zürich - Rapperswil - Kreuzlingen - St. Gallen
 
 ## Autoren
-- [Jens Eichberger](https://github.com/Nexterbyby)
+- [Jens Eichenberger](https://github.com/Nexterbyby)
 
 ## Lizenz
 [MIT](https://choosealicense.com/licenses/mit/)
